@@ -1,0 +1,4 @@
+include:
+  - project: sunnyatticsoftware/sasw-community/sasw-continuous-integration
+    ref: main
+    file: /templates/gitlab-nuget.yml

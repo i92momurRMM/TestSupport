@@ -1,0 +1,15 @@
+<Project>
+	<PropertyGroup Label="SDK Versions">
+		<ClassLibraryTargetFramework>netstandard2.1</ClassLibraryTargetFramework>
+		<ApplicationTargetFramework>net5.0</ApplicationTargetFramework>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+	<PropertyGroup Label="Package Information">
+		<Authors>Diego Martin</Authors>
+		<Company>Sunny Attic Software</Company>
+		<PackageTags>SunnyAtticSoftware;Templates;TDD;GivenWhenThen;UnitTest</PackageTags>
+		<Website>https://sunnyatticsoftware.com</Website>
+		<PackageWebsite>https://gitlab.com/sunnyatticsoftware/sasw-community</PackageWebsite>
+	</PropertyGroup>
+</Project>
